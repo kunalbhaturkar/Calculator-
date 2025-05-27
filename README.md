@@ -1,1 +1,1 @@
-# Calculator-
+Developed a command-line basic calculator application using Python Programming Language.It enables users to perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division.
